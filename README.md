@@ -1,8 +1,12 @@
-# Research Internships for Undergraduates
+![rifu-heading](images/rifu-heading.png)
 
-#### This is a non-exhaustive list of opportunities available to Undergraduate students. Many of these positions are only focussed towards Indian students.
+# <p align="center"> Research Internships for Undergraduates </p>
 
+#### <p align="center"> This is a non-exhaustive list of opportunities available to Undergraduate students. Many of these positions are only focused towards Indian students. </p>
+
+<p align="center">
 I am making this list as an attempt to fill the void of any such open source list. Your contribution is vital to keep the list up-to-date for future students to use. Hence it's a humble request to each user to contribute any new opportunity you discover and update the old ones. Without updation, the web-links will break, and the list will become futile! I'll make sure that any such modification in the `README.md` raised as an issue or submitted as a pull request be timely reviewed and added.
+</p>
 
 <p align="center">
   This repo is maintained in collaboration with <a href="https://zapply.jobs">
@@ -14,6 +18,8 @@ I am making this list as an attempt to fill the void of any such open source lis
 [![Zapply](https://img.shields.io/badge/Zapply-Company_Site-4F46E5?style=for-the-badge&logo=zap&logoColor=white)](https://zapply.jobs/)
 [![Discord](https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yKWw28q7Yq)
 [![Reddit](https://img.shields.io/badge/Reddit-Join-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/Zapply/)
+
+![rifu-community](images/rifu-community.png)
 
 ## **Join Our Community**
 
