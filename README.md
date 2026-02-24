@@ -8,7 +8,7 @@
 > I am making this list as an attempt to fill the void of any such open source list. Your contribution is vital to keep the list up-to-date for future students to use. Hence it's a humble request to each user to contribute any new opportunity you discover and update the old ones. Without updation, the web-links will break, and the list will become futile! I'll make sure that any such modification in the `README.md` raised as an issue or submitted as a pull request be timely reviewed and added.
 
 <p align="center">
-  This repo is maintained in collaboration with <a href="https://zapply.jobs">
+  This repo is maintained in collaboration with <a href="https://zapply.jobs/?ref=github">
   <img src="https://zapply.jobs/_astro/logo-white.BELjrjiH_Z18qziS.svg" alt="Zapply logo" height="20" align="center">
 </a>
 </p>
@@ -27,7 +27,7 @@ Explore Zapply's website and check out:
 Experience an advanced career journey with us! 🚀
 
 <p align="center">
-  <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
+  <a href="https://zapply.jobs/?ref=github"><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://chromewebstore.google.com/detail/zapply-instant-autofill-f/lkomdndabnpakcabffgobiejimpamjom"><img src="images/extension-button.png" alt="Install Our Extension - Coming Soon" width="277"></a>
 </p>
